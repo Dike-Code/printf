@@ -1,1 +1,1 @@
-Alx -printf paired prroject o
+Alx -printf paired prroject
